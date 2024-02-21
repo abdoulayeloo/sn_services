@@ -1,0 +1,40 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "AFA Dakar",
+      "address": "Avenue Cheikh Anta Diop, Dakar, Sénégal",
+      "latitude": 14.692778,
+      "longitude": -17.446667,
+      "telephone": "+221 33 825 98 00",
+      "email": "dakar@afa.com"
+    },
+    {
+      "id": 2,
+      "name": "AFA Abidjan",
+      "address": "Cocody, Abidjan, Côte d'Ivoire",
+      "latitude": 5.359951,
+      "longitude": -4.008256,
+      "telephone": "+225 22 44 27 00",
+      "email": "abidjan@afa.com"
+    },
+    {
+      "id": 3,
+      "name": "AFA Accra",
+      "address": "Accra, Ghana",
+      "latitude": 5.603717,
+      "longitude": -0.186964,
+      "telephone": "+233 30 277 60 00",
+      "email": "accra@abidjan.com"
+    },
+    {
+      "id": 4,
+      "name": "AFA Lagos",
+      "address": "Lagos, Nigeria",
+      "latitude": 6.524379,
+      "longitude": 3.379206,
+      "telephone": "+234 1 277 60 00",
+      "email": "lagos@afa.com"
+    }
+  ]
+}
